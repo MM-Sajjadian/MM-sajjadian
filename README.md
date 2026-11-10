@@ -1,5 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohammad Mehdi Sajadian 👋
 
+I'm building projects in:
+
+- 🌐 Web Development
+- 💻 Python Programming
+- 🔐 Cybersecurity
+
+## Featured Projects
+
+More projects coming soon!
+
+## Goals
+- Build practical projects
+- Improve my development skills
+- Learn cybersecurity fundamentals
 <!--
 **MM-Sajjadian/MM-sajjadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
