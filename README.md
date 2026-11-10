@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Mehdi Sajadian 👋
+# Hi, I'm Mohammad Mehdi Sajjadian 👋
 
 I'm building projects in:
 
